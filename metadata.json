@@ -1,0 +1,6 @@
+{
+  "name": "Domínica Eventos",
+  "description": "Domínica Eventos, salón de fiestas en Brandsen para celebrar tus momentos más especiales. Un espacio que se adapta al clima y a tus necesidades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
